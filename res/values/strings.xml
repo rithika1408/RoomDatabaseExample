@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomDataBase</string>
+    <string name="enter_message">Enter message</string>
+    <string name="android_room_example">Android Room Example</string>
+    <string name="enter_room">Enter room</string>
+    <string name="testing_the_font">Testing the font</string>
+    <string name="_2nd_july_2018">2nd July, 2018</string>
+</resources>
